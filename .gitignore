@@ -39,5 +39,5 @@ Thumbs.db
 
 # dotCover
 *.dotCover
-RezoraData/appsettings.json
-RezoraData/appsettings.Development.json
+appsettings.json
+appsettings.Development.json
