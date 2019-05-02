@@ -1,1 +1,1 @@
-# rezora-data-api
+# dotnetcore-data-api-example
